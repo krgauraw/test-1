@@ -1,4 +1,4 @@
 [submodule "platform-core"]
 	path = platform-core
 	url = https://github.com/krgauraw/test-core
-	branch=release-1.0
+	branch = release-1.0
